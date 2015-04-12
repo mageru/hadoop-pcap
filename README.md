@@ -1,6 +1,6 @@
 Hadoop PCAP library
 ===================
-
+[![Build Status](https://travis-ci.org/mageru/hadoop-pcap.svg?branch=TravisBuilds)](https://travis-ci.org/mageru/hadoop-pcap)
 License
 -------
 This library is distributed under the LGPL.  
